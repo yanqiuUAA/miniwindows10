@@ -6,6 +6,10 @@
 
 ---
 
+[![Rufus 官网](https://img.shields.io/badge/Rufus-官网-2ea44f)](https://rufus.ie/)
+[![Bilibili 关注](https://img.shields.io/badge/Bilibili-关注UP主-FC73B4)](https://space.bilibili.com/3494368862275601?spm_id_from=333.1007.0.0)
+
+---
 ## 项目介绍
 本项目基于 Windows 10 官方原版镜像（22H2）进行离线封装与精简。旨在解决老旧电脑（2GB 内存 / 机械硬盘）运行卡顿的问题，同时移除广告和隐私泄露风险，让你重获纯净、快速的 Windows 体验。
 
@@ -61,5 +65,3 @@ cortana
  **如果这个项目对你有帮助，请给一个 Star 支持一下！**  
  问题反馈：发送邮箱：yanqiuUAA@outlook.com
 
-[![Rufus 官网](https://img.shields.io/badge/Rufus-官网-2ea44f)](https://rufus.ie/)
-[![Bilibili 关注](https://img.shields.io/badge/Bilibili-关注UP主-FC73B4)](https://space.bilibili.com/3494368862275601?spm_id_from=333.1007.0.0)
