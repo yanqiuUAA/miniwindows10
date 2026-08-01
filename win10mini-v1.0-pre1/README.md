@@ -12,7 +12,12 @@
 
 **因为文件大小限制，使用123云盘分享**
 
+**普通用户请下载.iso文件**
+
 版本号打错了，下载esd文件下载版本为win10mini-pre1为正常现象
 
 
 [![123云盘](https://img.shields.io/badge/123云盘-点击访问esd文件-4285F4?style=flat-square&logo=googlecloud)](https://1856688305.share.123pan.cn/123pan/NGX8vd-wUYmd)
+
+
+[![123云盘](https://img.shields.io/badge/123云盘-点击访问iso文件-4285F4?style=flat-square&logo=googlecloud)](https://1856688305.share.123pan.cn/123pan/NGX8vd-7L0od?pwd=VPqw#)
